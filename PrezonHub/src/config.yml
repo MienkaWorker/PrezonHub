@@ -1,0 +1,13 @@
+DisabledCommands:
+- 'pl'
+- 'plugins'
+- 'help'
+- 'about'
+- 'ver'
+- 'version'
+- 'bukkit:pl'
+- 'bukkit:plugins'
+- 'bukkit:help'
+- 'bukkit:about'
+- 'bukkit:ver'
+- 'bukkit:version'

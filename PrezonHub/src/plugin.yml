@@ -1,0 +1,14 @@
+name: PrezonHub
+author: ducitymp
+version: 1.0
+main: me.PrezonCraft.Hub.Main
+
+commands:
+  punten:
+  setparkour:
+  spawn:
+  setspawn:
+  setdropper:
+  setdisco:
+  bouwmode:
+  rename:
